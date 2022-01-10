@@ -71,3 +71,7 @@ dkms.conf
 *.iex
 *.ini
 *.txt
+
+# Images
+*.jpg
+*.scvd
