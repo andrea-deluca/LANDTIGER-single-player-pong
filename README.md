@@ -20,3 +20,6 @@ The user should **start the game** by pressing the button _KEY1_. When the game 
 
 ### Note
 Having to use the emulator and not the physical board, all the non-ideality behaviors must be enabled and considered by your software and the _RIT_ and _Timers_ scaling switches can be enabled for debugging faster the project.
+
+## Reference
+This project has been developed by Andrea Deluca for the course of "Architetture dei sistemi di elaborazione", attended during the academic year 2021/22 at Politecnico di Torino, Master's Degree in Computer Engineering.
