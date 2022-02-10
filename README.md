@@ -27,6 +27,8 @@ The user should **start the game** by pressing the button _KEY1_. When the game 
 ### Note
 Having to use the emulator and not the physical board, all the non-ideality behaviors must be enabled and considered by your software and the _RIT_ and _Timers_ scaling switches can be enabled for debugging faster the project.
 
+## Development report
+A template was used as a starting project, built during the course, ready to manage the interaction with the hardware components on the board. In particular, three new libraries have been created to manage the paddle, ball and GUI functionalities respectively. Furthermore, the handlers of the components' interrupts have been modified to manage the events foreseen by the requests given.
 
 ## Reference
 This project has been developed by Andrea Deluca for the course of "Architetture dei sistemi di elaborazione", attended during the academic year 2021/22 at Politecnico di Torino, Master's Degree in Computer Engineering.
