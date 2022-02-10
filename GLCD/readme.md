@@ -22,7 +22,7 @@ Here a summary of the available functions and a short description for each of th
 
 | Function name | Input params | Return value | Description | Scope |
 |:--------------|:-------------|:--------|:-----------------|:------|
-| [`LCD_Configuration`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/GLCD#LCD-Configuration) | `void` | `void` | Configure the LCD Control pins. | Private
+| [`LCD_Configuration`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/GLCD#LCD_Configuration) | `void` | `void` | Configure the LCD Control pins. | Private
 | [`LCD_Send`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/GLCD#LCD_Send) | `uint16_t byte` | `void` | LCD write data. | Private
 | [`wait_delay`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/GLCD#wait_delay) | `int count` | `void` | Delay time. | Private
 | [`LCD_Read`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/GLCD#LCD_Read) | `void` | `uint16_t` | LCD read data. | Private
