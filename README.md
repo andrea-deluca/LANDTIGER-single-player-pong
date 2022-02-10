@@ -1,3 +1,6 @@
+![GitHub language count](https://img.shields.io/github/languages/count/andrea-deluca/LANDTIGER-single-player-pong)
+![GitHub top language](https://img.shields.io/github/languages/top/andrea-deluca/LANDTIGER-single-player-pong)
+[![Website polito.it](https://img.shields.io/badge/Associated%20with-Politecnico%20di%20Torino-blue)](https://www.polito.it)
 [![GitHub license](https://img.shields.io/github/license/andrea-deluca/LANDTIGER-single-player-pong)](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/blob/main/LICENSE)
 
 # LANDTIGER-single-player-pong
