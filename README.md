@@ -1,6 +1,7 @@
 # LANDTIGER-single-player-pong
 Single-player version of the game called "Pong", implemented by using the LandTiger Emulator available on Keil uVision, that reproduce the behaviour of the classic table tennis-themed arcade game, originally released in 1972 by Atari.
 
+
 ## Description of requests
 For this project, start by implementing a single-player version of the game where the player must not let the ball fall below the paddle. The paddle can only move horizontally, and the player operates it through the _potentiometer_ available in the LandTiger board.
 
@@ -20,6 +21,7 @@ The user should **start the game** by pressing the button _KEY1_. When the game 
 
 ### Note
 Having to use the emulator and not the physical board, all the non-ideality behaviors must be enabled and considered by your software and the _RIT_ and _Timers_ scaling switches can be enabled for debugging faster the project.
+
 
 ## Reference
 This project has been developed by Andrea Deluca for the course of "Architetture dei sistemi di elaborazione", attended during the academic year 2021/22 at Politecnico di Torino, Master's Degree in Computer Engineering.
