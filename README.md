@@ -46,14 +46,14 @@ Looking at the [```sample.c```](https://github.com/andrea-deluca/LANDTIGER-singl
 ### Libraries
 The complete documentation of each library is found within the library itself. Here the linked list of the available documentation:
 
-1. [GLCD - Graphical Liquid Crystal Display](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/GLDC)
-2. [GUI - Graphical User Interface](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/GUI)
-3. [RIT - Repetitive Interrupt Timer](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/RIT)
-4. [ADC - Analog-to-Digital Converter](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/adc)
-5. [Ball](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/ball)
-6. [Button EXINT - Button External Interrupt](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/button_EXINT)
-7. [Paddle](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/paddle)
-8. [Timer](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/timer)
+1. [GLCD - Graphical Liquid Crystal Display](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/GLDC)
+2. [GUI - Graphical User Interface](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/GUI)
+3. [RIT - Repetitive Interrupt Timer](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/RIT)
+4. [ADC - Analog-to-Digital Converter](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/adc)
+5. [Ball](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/ball)
+6. [Button EXINT - Button External Interrupt](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/button_EXINT)
+7. [Paddle](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/paddle)
+8. [Timer](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/timer)
 
 ## Reference
 This project has been developed by Andrea Deluca for the course of "Architetture dei sistemi di elaborazione", attended during the academic year 2021/22 at Politecnico di Torino, Master's Degree in Computer Engineering.
