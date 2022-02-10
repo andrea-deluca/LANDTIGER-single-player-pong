@@ -12,7 +12,7 @@ Single-player version of the game called "Pong", implemented by using the LandTi
 2. [Development report](https://github.com/andrea-deluca/LANDTIGER-single-player-pong#development-report)
    - [Documentation](https://github.com/andrea-deluca/LANDTIGER-single-player-pong#documentation)
      - [Main](https://github.com/andrea-deluca/LANDTIGER-single-player-pong#main)
-     - [Libraries](https://github.com/andrea-deluca/LANDTIGER-single-player-ponglibraries)
+     - [Libraries](https://github.com/andrea-deluca/LANDTIGER-single-player-pong#libraries)
 3. [Reference](https://github.com/andrea-deluca/LANDTIGER-single-player-pong#reference)
 
 ## Description of requests
