@@ -31,7 +31,7 @@ extern uint8_t ScaleFlag; // <- ScaleFlag needs to visible in order for the emul
 
 extern int GAME_STATUS; 
 
-int main (void) {
+int main (void){
   	
 	SystemInit();  												/* System Initialization (i.e., PLL)  */
 	
