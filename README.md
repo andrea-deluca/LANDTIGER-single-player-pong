@@ -41,7 +41,7 @@ A template was used as a starting project, built during the course, ready to man
 ### Documentation
 
 #### Main
-Looking at the [```sample.c```](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/sample.c) file, we find the main function, i.e. the starting point of the software, where all the hardware components and the GUI software component are initialazied.
+Looking at the `sample.c` file, we find the main function, i.e. the starting point of the software, where all the hardware components and the GUI software component are initialazied.
 
 #### Libraries
 The complete documentation of each library is found within the library itself. Here the linked list of the available documentation:
