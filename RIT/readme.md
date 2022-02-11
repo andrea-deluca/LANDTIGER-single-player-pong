@@ -3,8 +3,8 @@ This library has been created to manage the RIT hardware component. Only the int
 
 ## Table of Contents
 1. [Functions](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/RIT#fucntions)
-   - [`lib_RIT.c`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/RIT#lib_RIT)
-   - [`IRQ_RIT.c`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/RIT#IRQ_RIT)
+   - [`lib_RIT.c`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/RIT#lib_RITc)
+   - [`IRQ_RIT.c`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/RIT#IRQ_RITc)
 
 ## Functions
 This section is divided according to the distribution of functions within `lib_RIT.c` and `IRQ_RIT.c` files. In particular, whitin the first file there are functions capable of managing the hardware component itself, unlike the second one, where only the interrupt request handler is present.
