@@ -2,7 +2,7 @@
 This library has been created to manage the RIT hardware component. Only the interrupt request handler has been changed to support button bouncing and the functionality performed by buttons.
 
 ## Table of Contents
-1. [Functions](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/RIT#fucntions)
+1. [Functions](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/RIT#functions)
    - [`lib_RIT.c`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/RIT#lib_RITc)
    - [`IRQ_RIT.c`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/RIT#IRQ_RITc)
 
