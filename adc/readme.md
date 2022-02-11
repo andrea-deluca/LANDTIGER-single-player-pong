@@ -14,8 +14,8 @@ Here a summary of the available functions in `lib_adc.c` file to manage the hard
 
 | Function name | Input params | Return value | Description | Scope |
 |:--------------|:-------------|:-------------|:------------|:------|
-| `ADC_init` | `void` | `void` | Initialize the ADC hardware component. | Public |
-| `ADC_start_conversion` | `void` | `void` | Start A/D conversion. | Public |
+| [`ADC_init`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/adc#ADC_init-) | `void` | `void` | Initialize the ADC hardware component. | Public |
+| [`ADC_start_conversion`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/adc#ADC_start_conversion-) | `void` | `void` | Start A/D conversion. | Public |
 
 </br>
 
