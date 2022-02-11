@@ -69,13 +69,13 @@ It resets the current RIT count.
 ### `IRQ_RIT.c`
 In `IRQ_RIT.c` file there is the RIT interrupt request handler (IRQ). It's used to implement buttons debouncing and their functionality.
 
+In particular, there are some extern variables, i.e. `extern int check_adc` and `extern int GAME_STATUS`. The second one is used to check current game status (Home, Game, Pause and Game Over) and to control effects of interactions with buttons. In addition, `int down_INT0`, `int down_KEY1` and `int down_KEY2` variables are used to check if buttons are pressed or released and to avoid buttons bouncing effects.
+
 #### RIT_IRQHandler ![Function scope](https://img.shields.io/badge/Scope-Public-brightgreen)
 ```c
 void RIT_IRQHandler(void)
 ```
-
-In particular, there are some extern variables, i.e. `extern int check_adc` and `extern int GAME_STATUS`. The second one is used to check current game status (Home, Game, Pause and Game Over) and to control effects of interactions with buttons. In addition, `int down_INT0`, `int down_KEY1` and `int down_KEY2` variables are used to check if buttons are pressed or released and to avoid buttons bouncing effects.
-
+##### Description
 When _KEY1_ button is pressed, if the game has not been started yet and the software shows home screen to the user, then the software builds game screen to start playing and it enables all the needed components, such as _timers_, their interrupts and the _analog-to-digital converter_. The game status changes to store this event and to know that user is playing.
 
 When _KEY2_ button is pressed during the game, it is paused. When the game is paused, if _KEY2_ is pressed, the game is resumed. These events are stored by the game status variable.
