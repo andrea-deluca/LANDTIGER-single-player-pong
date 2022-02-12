@@ -1,5 +1,5 @@
 # GLCD - Graphical Liquid Crystal Display
-This library has been created by AVRman, how is reported whitin the files, and it provides functions to manage LCD hardware component. All files have not been modified, but here you can find a brief description for implemented functionalities.
+This library has been created by AVRman, how is reported whitin the files, and it provides functions to manage LCD hardware component. All files have not been modified, but here you can find a brief description for implemented functionality.
 
 ## Table of Contents
 1. [AsciiLib and HzLib](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/GLCD#AsciiLib-and-HzLib)
