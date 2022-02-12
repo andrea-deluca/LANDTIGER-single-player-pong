@@ -32,7 +32,7 @@ It returns the value `0`.
 ##### Description
 It Inizializes the RIT component to count as much as specified by `RITInterval` variable. To calculate the value of the interval it is necessary to keep in mind that there is a clock cycle of 100MHz for the RIT, therefore the value of the interval K is given by:
 
-_K = time_in_seconds * (25 * 10^6)Hz_
+_K = time_in_seconds * (100 * 10^6)Hz_
 
 </br>
 
