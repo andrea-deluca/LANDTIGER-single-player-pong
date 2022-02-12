@@ -12,7 +12,7 @@ This section is divided according to the distribution of functions within `lib_b
 ### `lib_button.c`
 Here a brief description of the only one function present in this file.
 
-#### `BUTTON_init`
+#### `BUTTON_init` ![Function scope](https://img.shields.io/badge/Scope-Public-brightgreen)
 ```c
 void BUTTON_init(void)
 ```
@@ -32,7 +32,7 @@ Here a summary of available functions in `IRQ_button.c` file to manage external 
 
 </br>
 
-#### `EINT0_IRQHandler`
+#### `EINT0_IRQHandler` ![Function scope](https://img.shields.io/badge/Scope-Public-brightgreen)
 ```c
 void EINT0_IRQHandler(void)
 ```
@@ -41,7 +41,7 @@ It manages external interrupt procuded when _INT0_ button is pressed. Here butto
 
 </br>
 
-#### `EINT1_IRQHandler`
+#### `EINT1_IRQHandler` ![Function scope](https://img.shields.io/badge/Scope-Public-brightgreen)
 ```c
 void EINT1_IRQHandler(void)
 ```
@@ -50,7 +50,7 @@ It manages external interrupt procuded when _KEY1_ button is pressed. Here butto
 
 </br>
 
-#### `EINT2_IRQHandler`
+#### `EINT2_IRQHandler` ![Function scope](https://img.shields.io/badge/Scope-Public-brightgreen)
 ```c
 void EINT2_IRQHandler(void)
 ```
