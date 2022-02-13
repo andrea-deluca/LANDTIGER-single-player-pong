@@ -32,7 +32,7 @@ Here a summary of the available functions and a short description for each of th
 | [`change_direction`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/ball#change_direction-) | `const int x_direction, const int y_direction, const double bouceAngle` | `void` | Chenge the direction of the motion of the ball. | Private |
 | [`checkForCollision`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/ball#checkForCollision-) | `void` | `void` | Check if the ball is hitting the paddle or a wall. It checks also for game over condition.  | Public |
 | [`draw_ball`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/ball#draw_ball-) | `const uint16_t new_ballX0, const uint16_t new_ballX1, const uint16_t new_ballY` | `void` | Draw the ball in the new position computed. | Public |
-| [`move_ball`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/ball#move_ball) | `void` | `void` | Compute the new position of the ball. | Public |
+| [`move_ball`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/ball#move_ball-) | `void` | `void` | Compute the new position of the ball. | Public |
 
 </br>
 
