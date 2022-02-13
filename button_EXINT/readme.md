@@ -26,9 +26,9 @@ Here a summary of available functions in `IRQ_button.c` file to manage external 
 
 | Function name | Input params | Return value | Decsription | Scope |
 |:--------------|:-------------|:-------------|:------------|:------|
-| [`EINT0_IRQHandler`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/button_EXINT#EINT0_IRQHandler) | `void` | `void` | Manage external interrupt procuded when _INT0_ button is pressed. | Public |
-| [`EINT1_IRQHandler`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/button_EXINT#EINT1_IRQHandler) | `void` | `void` | Manage external interrupt procuded when _KEY1_ button is pressed. | Public |
-| [`EINT2_IRQHandler`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/button_EXINT#EINT2_IRQHandler) | `void` | `void` | Manage external interrupt procuded when _KEY2_ button is pressed. | Public |
+| [`EINT0_IRQHandler`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/button_EXINT#EINT0_IRQHandler-) | `void` | `void` | Manage external interrupt procuded when _INT0_ button is pressed. | Public |
+| [`EINT1_IRQHandler`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/button_EXINT#EINT1_IRQHandler-) | `void` | `void` | Manage external interrupt procuded when _KEY1_ button is pressed. | Public |
+| [`EINT2_IRQHandler`](https://github.com/andrea-deluca/LANDTIGER-single-player-pong/tree/main/button_EXINT#EINT2_IRQHandler-) | `void` | `void` | Manage external interrupt procuded when _KEY2_ button is pressed. | Public |
 
 </br>
 
