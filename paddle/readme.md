@@ -35,7 +35,7 @@ It draws the paddle fully. It's used during the first real reading of the value 
 
 </br>
 
-### `draw_paddle` ![Function scope](https://img.shields.io/badge/Scope-Public-brightgreen)
+### `move_paddle` ![Function scope](https://img.shields.io/badge/Scope-Public-brightgreen)
 ```c
 void move_paddle(const uint16_t new_paddleX0, const uint16_t new_PaddleX1)
 ```
